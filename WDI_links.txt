@@ -1,0 +1,3 @@
+OS X Keyboard Shortcuts Link: http://support.apple.com/kb/HT1343
+
+GIT Cheat Sheet: http://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
