@@ -1,3 +1,9 @@
 OS X Keyboard Shortcuts Link: http://support.apple.com/kb/HT1343
 
-GIT Cheat Sheet: http://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+GIT Cheat Sheets:
+http://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
+
+Learning CSS Position in 10 Steps: http://www.barelyfitz.com/screencast/html-training/css/positioning/
+
+The 30 CSS Selectors You Must Memorize: http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
